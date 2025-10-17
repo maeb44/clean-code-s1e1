@@ -38,7 +38,7 @@ ul {
   margin: 0;
   padding: 0;
 }
-li, h3 {
+li, h2 {
   list-style: none;
 }
 input,button{
@@ -135,4 +135,7 @@ input,button{
 }
 .edit-label {
   display: none;
+}
+.add-sect {
+	margin: 16px 0 16px 0;
 }
