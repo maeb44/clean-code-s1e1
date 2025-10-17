@@ -127,7 +127,7 @@ input,button{
 }
 /* Edit Task */
 .edit-task-input {
-    display: none;
+	display: none;
 }
 .edit-mode .edit-task-input {
   display: inline-block;
