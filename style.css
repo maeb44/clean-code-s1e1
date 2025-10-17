@@ -130,7 +130,8 @@ input,button{
   display: none;
 }
 .editMode .edit-task-input {
-  display: inline-block;width: 224px;
+  display: inline-block;
+	width: 224px;
 }
 .edit-label {
   display: none;
